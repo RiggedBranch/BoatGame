@@ -222,7 +222,7 @@ public class BoatGame {
 		System.out.println("1.This is a Boat Game in which players race each other to the end.");
 		System.out.println("2.Start the game off by declaring the number of traps, currents and players.");
 		System.out.println("3.Traps will make your boat fall back whereas currents will push the boat forward.");
-		System.out.println("4.Each trap and current has their own strength and the maximum displcement for both events are 6.");
+		System.out.println("4.Each trap and current has their own strength and the maximum displacement for both events are 6.");
 		System.out.println("5.The first person to reach the end will win the game.");
 		System.out.println("6.The scoreboard contains the top 5 players that used the least amount of turns to win. Bots are also included.");
 		System.out.println("================================================================================================================");
